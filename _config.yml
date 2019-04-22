@@ -74,7 +74,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "frikazos", detail: "y técnicos"}
+ - {count: "120", specialCharacter: "+", info: "frikazos", detail: "y técnicos"}
  - {count: "12", specialCharacter: "+", info: "horas", detail: "de diversión y tecnologia"}
  - {count: "10", specialCharacter: "+", info: "mesas", detail: "plagadas de rol"}
  #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
@@ -138,7 +138,7 @@ ticketsOffers:
   name: "Estandar"
   price: "Free"
   priceCurrency: "€"
-  ticketsNumber: "100"
+  ticketsNumber: "120"
   ribbon: ""
   buyButtonLink: "https://www.koliseo.com/itanddragons/it-and-dragons#/"
   buyButtonText: "Consigue la tuya"
