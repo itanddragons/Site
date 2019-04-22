@@ -43,12 +43,12 @@ c4sponsorsUrl: "hello@itanddragons.com"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ #- {permalink: "/blog/", text: "Blog"}
+ #- {permalink: "/schedule/", text: "Schedule"}
+ #- {permalink: "/speakers/", text: "Speakers"}
+ #- {permalink: "/team/", text: "Team"}
+ #- {permalink: "/logistics/", text: "Logistics"}
+ #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/proposals/new", text: "Prepara algo"}
 rightNavigationButtons:
