@@ -62,7 +62,7 @@ typeoutTextValues: '"", " Rol", " Juegos de mesa", " tecnologia", " diversión"'
 typeoutFallback: " Rol"
 heroButtons:
  - {link: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/proposals/new", text: "Prepara algo"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Consigue tu entrada"}
 
 # About Block
 aboutTitle: "Sobre IT and Dragons"
@@ -120,7 +120,7 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Patrocinan"
+organizersTitle: ""
 partnersTitle: "Patrocinan"
 partnersC4sponsorsButton: "Quiero patrocinar el evento"
 
