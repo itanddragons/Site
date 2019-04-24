@@ -3,3 +3,4 @@
   elements: 
     - {name: "LifeRay", description: "LifeRay", link: "https://www.liferay.com/es/", imageUrl: "LifeRay.png"}
     - {name: "DevsDna", description: "DevsDna", link: "http://devsdna.com/", imageUrl: "DevsDnaLogo.png"}
+    - {name: "NoSoloRol", description: "NoSoloRol", link: "https://www.nosolorol.com/es/", imageUrl: "NosoloRol.png"}
