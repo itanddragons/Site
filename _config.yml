@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/proposals/new"
+c4pUrl: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/"
 c4sponsorsUrl: "mailto:hello@itanddragons.com"
 
 
@@ -50,9 +50,9 @@ navigationLinks:
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/proposals/new", text: "Prepara algo"}
+ - {link: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/", text: "Prepara algo"}
 rightNavigationButtons:
- - {link: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/proposals/new", text: "Prepara algo"}
+ - {link: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/", text: "Prepara algo"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "8 Junio 2019"
 typeoutTextValues: '"", " Rol", " Juegos de mesa", " tecnologia", " diversión"'
 typeoutFallback: " Rol"
 heroButtons:
- - {link: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/proposals/new", text: "Prepara algo"}
+ - {link: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/", text: "Prepara algo"}
  - {permalink: "/#tickets", text: "Consigue tu entrada"}
 
 # About Block
