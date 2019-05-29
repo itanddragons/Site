@@ -90,7 +90,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "LifeRay"
+eventLocationName: "Liferay"
 eventLocationLink: "https://www.google.es/maps/place/Liferay/@40.4763066,-3.6878875,17z/data=!3m1!4b1!4m5!3m4!1s0xd42296b11f82497:0x9602a230a5afc7f1!8m2!3d40.4763025!4d-3.6856988"
 eventStreetAddress: "Paseo de la Castellana, 280"
 eventAddressLocality: "Madrid"
