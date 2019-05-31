@@ -4,4 +4,4 @@
     - {name: "Liferay", description: "Liferay", link: "https://www.liferay.com/es/", imageUrl: "LifeRay.png"}
     - {name: "DevsDna", description: "DevsDna", link: "http://devsdna.com/", imageUrl: "DevsDnaLogo.png"}
     - {name: "NoSoloRol", description: "NoSoloRol", link: "https://www.nosolorol.com/es/", imageUrl: "NosoloRol.png"}
-    - {name: "ContemplaRol" description: "ContemplaRol", link: "https://www.meetup.com/es-ES/contemplarol/", imageUrl: "contemplarol.png"}
+    - {name: "ContemplaRol", description: "ContemplaRol", link: "https://www.meetup.com/es-ES/contemplarol/", imageUrl: "contemplarol.png"}
