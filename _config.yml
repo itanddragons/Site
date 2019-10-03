@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/"
+c4pUrl: "https://www.koliseo.com/itanddragons/it-and-dragons1/r4p/5657067356422144"
 c4sponsorsUrl: "mailto:hello@itanddragons.com"
 
 
@@ -50,18 +50,18 @@ navigationLinks:
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/", text: "Prepara algo"}
+ - {link: "https://www.koliseo.com/itanddragons/it-and-dragons1/r4p/5657067356422144", text: "Prepara algo"}
 rightNavigationButtons:
- - {link: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/", text: "Prepara algo"}
+ - {link: "https://www.koliseo.com/itanddragons/it-and-dragons1/r4p/5657067356422144", text: "Prepara algo"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "IT And Dragons"
-eventDate: "8 Junio 2019"
+eventDate: "9 Noviembre 2019"
 typeoutTextValues: '"", " Rol", " Juegos de mesa", " tecnologia", " diversión"'
 typeoutFallback: " Rol"
 heroButtons:
- - {link: "https://www.koliseo.com/itanddragons/it-and-dragons/r4p/5680334402224128#/", text: "Prepara algo"}
+ - {link: "https://www.koliseo.com/itanddragons/it-and-dragons1/r4p/5657067356422144", text: "Prepara algo"}
  - {permalink: "/#tickets", text: "Consigue tu entrada"}
 
 # About Block
@@ -74,7 +74,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "120", specialCharacter: "+", info: "frikazos", detail: "y técnicos"}
+ - {count: "50", specialCharacter: "+", info: "frikazos", detail: "y técnicos"}
  - {count: "12", specialCharacter: "+", info: "horas", detail: "de diversión y tecnologia"}
  - {count: "10", specialCharacter: "+", info: "mesas", detail: "plagadas de rol"}
  #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
@@ -90,19 +90,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Liferay"
-eventLocationLink: "https://www.google.es/maps/place/Liferay/@40.4763066,-3.6878875,17z/data=!3m1!4b1!4m5!3m4!1s0xd42296b11f82497:0x9602a230a5afc7f1!8m2!3d40.4763025!4d-3.6856988"
-eventStreetAddress: "Paseo de la Castellana, 280"
-eventAddressLocality: "Madrid"
-eventAddressLocalityRegion: "Madrid"
+eventLocationName: "CRAI Antonio de Ulloa Universidad de Sevilla"
+eventLocationLink: "https://www.google.es/maps/place/CRAI+Antonio+de+Ulloa+Universidad+de+Sevilla/@37.3598433,-5.9887403,17z/data=!3m1!4b1!4m5!3m4!1s0xd126c2b367ef0ab:0xde62f825f04649db!8m2!3d37.3598391!4d-5.9865516"
+eventStreetAddress: "Avenida de la Reina Mercedes"
+eventAddressLocality: "Sevilla"
+eventAddressLocalityRegion: "Sevilla"
 eventPostalCode: "28046"
 eventAddressCountry: "España"
-eventStartTime: "2019-06-08T10:00"
+eventStartTime: "2019-11-09T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2019-06-08T20:00"
-eventPlaceCoordinates: "40.4763066,-3.6878875"
-mapCenterCoordinates: "40.4763066,-3.6878875"
-mapMobileCenterCoordinates: "40.4763066,-3.6878875"
+eventEndTime: "2019-11-09T20:00"
+eventPlaceCoordinates: "37.3598433,-5.9887403"
+mapCenterCoordinates: "37.3598433,-5.9887403"
+mapMobileCenterCoordinates: "37.3598433,-5.9887403"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -143,8 +143,8 @@ ticketsOffers:
   buyButtonLink: "https://www.koliseo.com/itanddragons/it-and-dragons#/"
   buyButtonText: "Consigue la tuya"
   ticketContentList: ["Entrada estandar"]
-  validFrom: "2019-04-25T10:00"
-  validThrough: "2019-06-7T23:59"
+  validFrom: "2019-10-04T10:00"
+  validThrough: "2019-11-8T23:59"
   
 # Footer
 socialLinks:
@@ -180,8 +180,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "37.3598433,-5.9887403"
+logisticsMapMobileCenterCoordinates: "37.3598433,-5.9887403"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
