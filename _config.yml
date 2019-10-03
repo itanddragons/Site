@@ -138,9 +138,9 @@ ticketsOffers:
   name: "Estandar"
   price: "Free"
   priceCurrency: "€"
-  ticketsNumber: "120"
+  ticketsNumber: "50"
   ribbon: ""
-  buyButtonLink: "https://www.koliseo.com/itanddragons/it-and-dragons#/"
+  buyButtonLink: "https://www.koliseo.com/itanddragons/it-and-dragons1#/r4p"
   buyButtonText: "Consigue la tuya"
   ticketContentList: ["Entrada estandar"]
   validFrom: "2019-10-04T10:00"
