@@ -4,4 +4,8 @@
     #- {name: "Liferay", description: "Liferay", link: "https://www.liferay.com/es/", imageUrl: "LifeRay.png"}
     - {name: "DevsDna", description: "DevsDna", link: "http://devsdna.com/", imageUrl: "DevsDnaLogo.png"}
     - {name: "NoSoloRol", description: "NoSoloRol", link: "https://www.nosolorol.com/es/", imageUrl: "NosoloRol.png"}
+    - {name: "AnuRol", description: "AnuRol", link: "https://twitter.com/anu_rol", imageUrl: "AnuRolLogo.png"}
+    - {name: "BeeHackers", description: "BeeHackers", link: "https://beehackers.es/", imageUrl: "BeehackersLogo.jpeg"}
+    - {name: "Guardianes", description: "Guardianes", link: "https://t.co/FToonTh4SB?amp=1", imageUrl: "Guardianes.png"}
+    - {name: "El Dirigible", description: "El Dirigible", link: "http://eldirigible.es/", imageUrl: "DirigibleLogo.jpeg"}
     #- {name: "ContemplaRol", description: "ContemplaRol", link: "https://www.meetup.com/es-ES/contemplarol/", imageUrl: "contemplarol.png"}
